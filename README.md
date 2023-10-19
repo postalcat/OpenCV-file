@@ -1,2 +1,0 @@
-# OpenCV-file
-opencv file
